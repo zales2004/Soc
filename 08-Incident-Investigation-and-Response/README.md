@@ -638,7 +638,7 @@ A false negative occurs when malicious activity takes place but the detection sy
 - [NIST SP 800-61 Revision 2 – Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final)
 - [NIST SP 800-61 Revision 3 – Incident Response Recommendations and Considerations for Cybersecurity Risk Management](https://csrc.nist.gov/pubs/sp/800/61/r3/final)
 - [Microsoft Learn – Windows Security Auditing](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-logon-events)
-- [Splunk Search Reference](https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/ About)
+- [Splunk Search Reference](https://docs.splunk.com/Documentation/Splunk/latest/SearchReference)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 
 ---
