@@ -15,7 +15,7 @@ Follow the modules in order. Each module has its own folder and README containin
 | [Day 05](05-Splunk-SPL-Fundamentals/README.md) | Splunk SPL Fundamentals | Search pipeline, fields, filtering, aggregation, time-based searches, SOC queries |
 | [Day 06](06-Advanced-SPL-for-SOC-Analysts/README.md) | Advanced SPL | Regex, JSON, lookups, eventstats, streamstats, transactions, joins, correlation |
 | [Day 07](07-Threat-Detection-Engineering/README.md) | Threat Detection Engineering | Detection lifecycle, IOC/IOA/TTP, thresholds, correlation, MITRE ATT&CK, rule quality |
-| [Day 08](08-Incident-Investigation-and-Response/README.md) | Incident Investigation & Response | Alert triage, investigation workflow, containment, eradication, recovery, evidence, incident reports |
+| [Day 08](08-Incident-Investigation-and-Response/README.md) | Incident Investigation & Response | Alert triage, investigation workflow, containment, eradication, recovery, evidence, incident reports |\n| [Day 09](09-Threat-Hunting-Fundamentals/README.md) | Threat Hunting Fundamentals | Hypothesis-driven, IOC-driven and behaviour-driven hunting, MITRE ATT&CK, Splunk searches, Linux log hunting |
 
 ## How to use this repository
 
@@ -58,6 +58,6 @@ Soc/
 
 ---
 
-**Progress:** 8 learning modules documented.
+**Progress:** 9 learning modules documented.
 
 *Maintained as a practical reference for SOC learning, revision, and entry-level analyst interview preparation.*
